@@ -1,6 +1,6 @@
 {
-  "name": "bs-officeplus-theme",
-  "description": "Package for Office Plus theme",
+  "name": "bs-theme-framework",
+  "description": "A quickstart WordPress template build, complete with prebuilt template components, Gulp and Node configurations, and SMACSS SASS modular library build.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/UCF/BS-officeplus-theme.git"
+    "url": "git://github.com/UCF/BS-theme-framework.git"
   },
   "keywords": [
-    "officeplus",
+    "WPFramework",
+    "framework",
+    "quickstart",
     "gulp",
     "sass",
     "UCF",
@@ -31,9 +33,9 @@
     "url": "https://github.com/mikesetzer/"
   },
   "bugs": {
-    "url": "https://github.com/UCF/BS-officeplus-theme/issues"
+    "url": "https://github.com/UCF/BS-theme-framework/issues"
   },
-  "homepage": "https://github.com/UCF/BS-officeplus-theme#readme",
+  "homepage": "https://github.com/UCF/BS-theme-framework#readme",
   "dependencies": {
     "jshint": "^2.9.5"
   },
